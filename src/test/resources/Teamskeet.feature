@@ -1,7 +1,7 @@
-@Mymilf
-Feature: The Mymilf Navigation and Search funcionality 
+@Mylf
+Feature: The Mylf Navigation and Search funcionality 
 
-    Background: As a customer I am on the Mymilf web without loggin in.
+    Background: As a customer I am on the Mylf web without loggin in.
         Given the user navigates to www.mylf.com
 
     Scenario: I can confirm my age when the web open     
